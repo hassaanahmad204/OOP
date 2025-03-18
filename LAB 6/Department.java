@@ -1,6 +1,6 @@
-package com.Management.Department;
-import com.Management.Lab.*;
-import com.Management.Employe.*;
+package university.Department;
+import university.Lab.*;
+import university.Employee.*;
 
 public class Department {
     private String departmentName;
